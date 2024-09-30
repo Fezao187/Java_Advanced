@@ -53,7 +53,7 @@ public class InstantDurationPeriodExample {
     System.out.println("");
     
     // Temporal
-    LocalDate christmas = LocalDate.of(2014, DECEMBER, 25);
+    LocalDate christmas = LocalDate.of(2024, DECEMBER, 25);
     LocalDate today = LocalDate.now();
     long days = DAYS.between(today, christmas);
     System.out.println("There are " + days + " shopping days til Christmas");
