@@ -14,6 +14,7 @@ public class ByteStreamCopyTest {
         }
                 byte[] b = new byte[128]; 
          // Example use of InputStream methods
+        // Images
          try (FileInputStream fis = new FileInputStream (args[0]);
               FileOutputStream fos = new FileOutputStream (args[1])) {
              System.out.println ("Bytes available: " + fis.available());

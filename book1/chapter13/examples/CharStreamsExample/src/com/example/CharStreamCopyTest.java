@@ -14,6 +14,7 @@ public class CharStreamCopyTest {
         }
         char[] c = new char[128];
         // Example use of InputStream methods
+        // Text files
         try (FileReader fr = new FileReader(args[0]);
                 FileWriter fw = new FileWriter(args[1])) {
             int count = 0;
