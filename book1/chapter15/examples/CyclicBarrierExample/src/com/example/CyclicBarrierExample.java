@@ -16,7 +16,7 @@ public class CyclicBarrierExample implements Runnable{
       
       CyclicBarrierExample ex = new CyclicBarrierExample();
       es.submit(ex);
-      //es.submit(ex);
+//      es.submit(ex);
       
       es.shutdown();
     }
