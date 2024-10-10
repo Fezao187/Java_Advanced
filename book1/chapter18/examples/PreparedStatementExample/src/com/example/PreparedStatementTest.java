@@ -13,7 +13,7 @@ import java.sql.SQLException;
 public class PreparedStatementTest {
 
     public static void main(String[] args) {
-        String url = "jdbc:derby://localhost:1527/EmployeeDB";
+        String url = "jdbc:postgresql://192.168.1.170:5432/sample?ssl=true";
         String username = "tiger";
         String password = "scott";
         String input = "";

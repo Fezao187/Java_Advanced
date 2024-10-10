@@ -10,22 +10,20 @@ import java.util.Date;
 public class SimpleJDBCTest {
 
     public static void main(String[] args) {
-        String url = "jdbc:derby://localhost:1527/EmployeeDB";
-        String username = "tiger";
-        String password = "scott";
-        String query = "SELECT * FROM Employee";
+        String url = "jdbc:postgresql://localhost:5432/employee_db";
+        String username = "postgres";
+        String password = "Kristine";
+        String query = "SELECT * FROM employess";
         try (Connection con = DriverManager.getConnection(url, username, password);
             Statement stmt = con.createStatement();
             ResultSet rs = stmt.executeQuery(query)){
             while (rs.next()) {
-                int empID = rs.getInt("ID");
-                String first = rs.getString("FIRSTNAME");
-                String last = rs.getString("LASTNAME");
-                Date birthDate = rs.getDate("BIRTHDATE");
-                double salary = rs.getDouble("SALARY");
+                int empID = rs.getInt("emp_id");
+                String first = rs.getString("first_name");
+                String last = rs.getString("surname");
+                double salary = rs.getDouble("salary_id");
                 System.out.println("Employee ID:   " + empID + "\n"
                         + "Employee Name: " + first + " " + last + "\n"
-                        + "Birth Date:    " + birthDate + "\n"
                         + "Salary:        " + salary + "\n");
             } // end of while
         } catch (SQLException ex) {
