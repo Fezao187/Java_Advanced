@@ -26,6 +26,7 @@ public class FileVisitorDemo {
             return FileVisitResult.CONTINUE;
         }
 
+
         public FileVisitResult visitFileFailed(Path file,
                                                BasicFileAttributes attr) {
             System.out.println(file.toString() + " COULD NOT ACCESS!");
