@@ -49,8 +49,7 @@ public class ListMoviesXML {
         Element tElement = (Element) e.getFirstChild();
         String title = getTextValue(tElement).trim();
         // get the Price element
-        Element pElement =
-                (Element) tElement.getNextSibling();
+        Element pElement = (Element) tElement.getNextSibling();
         String pString = getTextValue(pElement).trim();
         double price = Double.parseDouble(pString);
         return new Movie(title, year, price);
