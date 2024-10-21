@@ -6,7 +6,7 @@ import java.io.*;
 public class WriteFile {
     public static void main(String[] args) {
         Movie[] movies = getMovies();
-        PrintWriter out = openWriter("C:\\BootCamp\\9_Java_Advanced\\My_Java\\book4\\chapter2\\src\\listing2_2\\movies2.txt");
+        PrintWriter out = openWriter("movies2.txt");
         for (Movie m : movies)
             writeMovie(m, out);
         out.close();
