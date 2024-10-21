@@ -1,3 +1,5 @@
+package main;
+
 public class SoccerLeague {
     public static void main(String[] args) {
         System.out.println("Soccer League");
@@ -22,5 +24,6 @@ public class SoccerLeague {
  *  3. Print the hashmap in sequence from highest league points, to lowest league points
  *  4. You are done!!!
  */
+
     }
 }
