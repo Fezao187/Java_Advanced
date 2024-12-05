@@ -1,8 +1,17 @@
 package main;
 
-public class SoccerLeague {
+import League.SoccerLeague;
+
+public class Scoreboard {
     public static void main(String[] args) {
         System.out.println("Soccer League");
+
+        SoccerLeague soccer = new SoccerLeague();
+        soccer.readFile("C:\\BootCamp\\9_Java_Advanced\\My_Java\\project\\soccer_league\\soccer.txt");
+    }
+}
+
+
 /** 1. Read the text file
  *      1a. Read one line
  *      1b. Split the line where the coma is
@@ -24,6 +33,3 @@ public class SoccerLeague {
  *  3. Print the hashmap in sequence from highest league points, to lowest league points
  *  4. You are done!!!
  */
-
-    }
-}

@@ -17,7 +17,7 @@ values ('The Princess Bride', 1987, 16.95);
 insert into movie (title, year, price)
 values ('Glory', 1989, 14.95);
 insert into movie (title, year, price)
-values ('The Game', 1997, 14.95);
+values ('The League.Game', 1997, 14.95);
 insert into movie (title, year, price)
 values ('Shakespeare in Love', 1998, 19.95);
 insert into movie (title, year, price)
