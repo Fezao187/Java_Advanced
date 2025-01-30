@@ -1,5 +1,6 @@
 package arrays;
 
+// Fixed size
 public class ArrayExample {
     public static void main(String[] args){
         // Create array of strings

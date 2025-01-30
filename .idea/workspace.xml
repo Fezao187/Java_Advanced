@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Quiz">
-      <change beforePath="$PROJECT_DIR$/.idea/My_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/My_Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Arrays">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_Java/arrays/ArrayExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_Java/arrays/ArrayExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/arrays/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/arrays/ArrayExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayExample.executor": "Run",
+    "Application.Example.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -80,7 +81,7 @@
       <workItem from="1733271840407" duration="18000" />
       <workItem from="1733756047290" duration="30000" />
       <workItem from="1733910682655" duration="135000" />
-      <workItem from="1738235518255" duration="1695000" />
+      <workItem from="1738235518255" duration="3532000" />
     </task>
     <task id="LOCAL-00001" summary="Java Advanced geeks4geeks quiz">
       <option name="closed" value="true" />
@@ -98,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733910712734</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Arrays">
+      <option name="closed" value="true" />
+      <created>1738237702434</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738237702434</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Advanced geeks4geeks quiz" />
     <MESSAGE value="Quiz" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quiz" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
 </project>
