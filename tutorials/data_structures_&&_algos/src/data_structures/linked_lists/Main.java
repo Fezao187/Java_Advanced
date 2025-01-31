@@ -1,4 +1,4 @@
-package linked_lists;
+package data_structures.linked_lists;
 
 public class Main {
     public static void main(String[] args) {
