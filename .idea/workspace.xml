@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="2D array">
+    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Sets">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="data_structures.hashmaps.hashfunctions" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,7 +89,7 @@
       <workItem from="1733756047290" duration="30000" />
       <workItem from="1733910682655" duration="135000" />
       <workItem from="1738235518255" duration="7264000" />
-      <workItem from="1738295361812" duration="8632000" />
+      <workItem from="1738295361812" duration="11458000" />
     </task>
     <task id="LOCAL-00001" summary="Java Advanced geeks4geeks quiz">
       <option name="closed" value="true" />
@@ -166,7 +171,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738304479640</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Sets">
+      <option name="closed" value="true" />
+      <created>1738306895705</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738306895705</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Sets">
+      <option name="closed" value="true" />
+      <created>1738306909539</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738306909539</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +204,7 @@
     <MESSAGE value="Queue" />
     <MESSAGE value="Tree" />
     <MESSAGE value="2D array" />
-    <option name="LAST_COMMIT_MESSAGE" value="2D array" />
+    <MESSAGE value="Sets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sets" />
   </component>
 </project>
