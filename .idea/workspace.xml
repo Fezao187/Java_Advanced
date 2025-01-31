@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Arrays">
+    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Array Lists">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_Java/arrays/ArrayExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_Java/arrays/ArrayExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/arrays/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/arrays/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/ArrayLIsts/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/arrayLIsts/Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,24 +43,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayExample.executor": "Run",
-    "Application.Example.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/BootCamp/9_Java_Advanced/My_Java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/BootCamp/9_Java_Advanced/My_Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,7 +80,8 @@
       <workItem from="1733271840407" duration="18000" />
       <workItem from="1733756047290" duration="30000" />
       <workItem from="1733910682655" duration="135000" />
-      <workItem from="1738235518255" duration="3532000" />
+      <workItem from="1738235518255" duration="7264000" />
+      <workItem from="1738295361812" duration="890000" />
     </task>
     <task id="LOCAL-00001" summary="Java Advanced geeks4geeks quiz">
       <option name="closed" value="true" />
@@ -107,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738237702434</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Array Lists">
+      <option name="closed" value="true" />
+      <created>1738239604676</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738239604676</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +125,7 @@
     <MESSAGE value="Java Advanced geeks4geeks quiz" />
     <MESSAGE value="Quiz" />
     <MESSAGE value="Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+    <MESSAGE value="Array Lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array Lists" />
   </component>
 </project>
