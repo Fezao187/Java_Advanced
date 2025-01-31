@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Linked lists">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Hash map">
+      <change beforePath="$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/hashmaps/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/hashmaps/Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
       <workItem from="1733756047290" duration="30000" />
       <workItem from="1733910682655" duration="135000" />
       <workItem from="1738235518255" duration="7264000" />
-      <workItem from="1738295361812" duration="2905000" />
+      <workItem from="1738295361812" duration="3208000" />
     </task>
     <task id="LOCAL-00001" summary="Java Advanced geeks4geeks quiz">
       <option name="closed" value="true" />
@@ -126,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738296403681</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Hash map">
+      <option name="closed" value="true" />
+      <created>1738299239941</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738299239941</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +146,7 @@
     <MESSAGE value="Arrays" />
     <MESSAGE value="Array Lists" />
     <MESSAGE value="Linked lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linked lists" />
+    <MESSAGE value="Hash map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hash map" />
   </component>
 </project>

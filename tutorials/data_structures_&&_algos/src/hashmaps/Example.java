@@ -55,6 +55,5 @@ public class Example {
         // Try to get I
         System.out.println("Trying to get I");
         System.out.println(countries.get("I"));
-
     }
 }
