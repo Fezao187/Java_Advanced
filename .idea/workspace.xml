@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Bubble sort">
+    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Insertion sort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/algorithm/bubble_sort/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/algorithm/bubble_sort/Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +49,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayExample.executor": "Run",
-    "Application.Example.executor": "Run",
+    "Application.Example.executor": "Debug",
+    "Application.Example2.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/BootCamp/9_Java_Advanced/My_Java",
+    "last_opened_file_path": "C:/BootCamp/9_Java_Advanced/My_Java/tutorials/data_structures_&&_algos/src/algorithm/mergeSort/Example2.java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "settings.sync",
+    "two.files.diff.last.used.file": "C:/BootCamp/9_Java_Advanced/My_Java/tutorials/data_structures_&&_algos/src/algorithm/mergeSort/Example2.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -91,7 +94,7 @@
       <workItem from="1738235518255" duration="7264000" />
       <workItem from="1738295361812" duration="11809000" />
       <workItem from="1738311676327" duration="3177000" />
-      <workItem from="1738414124064" duration="3298000" />
+      <workItem from="1738414124064" duration="9508000" />
     </task>
     <task id="LOCAL-00001" summary="Java Advanced geeks4geeks quiz">
       <option name="closed" value="true" />
@@ -205,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738416185678</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Insertion sort">
+      <option name="closed" value="true" />
+      <created>1738417474482</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738417474484</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +237,14 @@
     <MESSAGE value="Hash code functions" />
     <MESSAGE value="Binary search algorithm" />
     <MESSAGE value="Bubble sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bubble sort" />
+    <MESSAGE value="Insertion sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Insertion sort" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="leftArray[i]" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
