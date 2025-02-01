@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Binary search algorithm">
+    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Bubble sort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayExample.executor": "Run",
-    "Application.Example.executor": "Debug",
+    "Application.Example.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -91,7 +91,7 @@
       <workItem from="1738235518255" duration="7264000" />
       <workItem from="1738295361812" duration="11809000" />
       <workItem from="1738311676327" duration="3177000" />
-      <workItem from="1738414124064" duration="1718000" />
+      <workItem from="1738414124064" duration="3298000" />
     </task>
     <task id="LOCAL-00001" summary="Java Advanced geeks4geeks quiz">
       <option name="closed" value="true" />
@@ -197,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738313499458</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Bubble sort">
+      <option name="closed" value="true" />
+      <created>1738416185678</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738416185678</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,17 +225,7 @@
     <MESSAGE value="Sets" />
     <MESSAGE value="Hash code functions" />
     <MESSAGE value="Binary search algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Binary search algorithm" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/algorithm/bubble_sort/Example.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Bubble sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bubble sort" />
   </component>
 </project>
