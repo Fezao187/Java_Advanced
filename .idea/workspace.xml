@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Code snippet" />
+    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Shallow copy vs deep copy">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +100,7 @@
       <workItem from="1738525917134" duration="245000" />
       <workItem from="1738660206456" duration="14000" />
       <workItem from="1738664892121" duration="39000" />
-      <workItem from="1738693639091" duration="2035000" />
+      <workItem from="1738693639091" duration="2838000" />
     </task>
     <task id="LOCAL-00001" summary="Java Advanced geeks4geeks quiz">
       <option name="closed" value="true" />
@@ -252,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738696096895</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Shallow copy vs deep copy">
+      <option name="closed" value="true" />
+      <created>1738696578728</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1738696578728</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,7 +287,8 @@
     <MESSAGE value="Merge sort" />
     <MESSAGE value="Overloading vs Overriding" />
     <MESSAGE value="Code snippet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code snippet" />
+    <MESSAGE value="Shallow copy vs deep copy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shallow copy vs deep copy" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
