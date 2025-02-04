@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Insertion sort">
+    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Merge sort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/algorithm/bubble_sort/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/algorithm/bubble_sort/Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,27 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayExample.executor": "Run",
-    "Application.Example.executor": "Debug",
-    "Application.Example2.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/BootCamp/9_Java_Advanced/My_Java/tutorials/data_structures_&&_algos/src/algorithm/mergeSort/Example2.java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
-    "two.files.diff.last.used.file": "C:/BootCamp/9_Java_Advanced/My_Java/tutorials/data_structures_&&_algos/src/algorithm/mergeSort/Example2.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/BootCamp/9_Java_Advanced/My_Java/tutorials/data_structures_&amp;&amp;_algos/src/algorithm/mergeSort/Example2.java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/BootCamp/9_Java_Advanced/My_Java/tutorials/data_structures_&amp;&amp;_algos/src/algorithm/mergeSort/Example2.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="data_structures.hashmaps.hashfunctions" />
@@ -94,7 +93,11 @@
       <workItem from="1738235518255" duration="7264000" />
       <workItem from="1738295361812" duration="11809000" />
       <workItem from="1738311676327" duration="3177000" />
-      <workItem from="1738414124064" duration="9508000" />
+      <workItem from="1738414124064" duration="10364000" />
+      <workItem from="1738525917134" duration="245000" />
+      <workItem from="1738660206456" duration="14000" />
+      <workItem from="1738664892121" duration="39000" />
+      <workItem from="1738693639091" duration="948000" />
     </task>
     <task id="LOCAL-00001" summary="Java Advanced geeks4geeks quiz">
       <option name="closed" value="true" />
@@ -216,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738417474484</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Merge sort">
+      <option name="closed" value="true" />
+      <created>1738445877772</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1738445877772</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +249,8 @@
     <MESSAGE value="Binary search algorithm" />
     <MESSAGE value="Bubble sort" />
     <MESSAGE value="Insertion sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Insertion sort" />
+    <MESSAGE value="Merge sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge sort" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
