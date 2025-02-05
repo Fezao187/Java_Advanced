@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Singleton">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0239c51a-c87b-4717-b543-6b3b58b62bbe" name="Changes" comment="Composition">
+      <change beforePath="$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/interbiewQuestions/composition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/data_structures_&amp;&amp;_algos/src/interbiewQuestions/composition/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,7 @@
       <workItem from="1738525917134" duration="245000" />
       <workItem from="1738660206456" duration="14000" />
       <workItem from="1738664892121" duration="39000" />
-      <workItem from="1738693639091" duration="5680000" />
+      <workItem from="1738693639091" duration="6474000" />
     </task>
     <task id="LOCAL-00001" summary="Java Advanced geeks4geeks quiz">
       <option name="closed" value="true" />
@@ -294,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738701330601</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Composition">
+      <option name="closed" value="true" />
+      <created>1738702004683</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1738702004683</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,7 +331,8 @@
     <MESSAGE value="Constructor vs method" />
     <MESSAGE value="Abstract and Super class" />
     <MESSAGE value="Singleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="Singleton" />
+    <MESSAGE value="Composition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Composition" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
